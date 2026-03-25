@@ -11,6 +11,12 @@ It retrieves stock data and displays price trends for analysis.
 PythonとStreamlitを用いて株価データを可視化するアプリです。
 データ取得からグラフ表示までの一連の流れを実装しています。
 
+## Screenshots
+
+| Main View | UI |
+|----------|----|
+| <img src="chart.png" width="300"> | <img src="ui.png" width="300"> |
+
 ## Features
 - Fetch stock price data
 - Display time-series charts
