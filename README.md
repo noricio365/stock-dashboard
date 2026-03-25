@@ -18,6 +18,16 @@ Demo: Screenshots below show interactive UI and dynamic updates.
 |----------|----|
 | <img src="chart.png" width="300"> | <img src="ui.png" width="300"> |
 
+## Background
+This project was created based on a learning tutorial and extended with additional features such as adding new stock symbols and updating the dataset.
+
+本アプリは学習教材をベースに作成し、銘柄追加や表示内容の調整などの改良を行いました。
+
+## What I learned
+- Fetching stock data using Python
+- Data visualization with interactive UI
+- Customizing application features based on requirements
+  
 ## Features
 - Fetch stock price data
 - Display time-series charts
@@ -37,6 +47,7 @@ pip install -r requirements.txt
 2. Run the app
 streamlit run main.py
 
-## Notes
-This app was created as part of my learning project.
-This project demonstrates basic data visualization and application development skills.
+## Future Improvements
+- Add more stock symbols
+- Improve UI
+ 
